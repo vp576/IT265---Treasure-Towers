@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 77f04384adffdfb42bd40e7a8bee5e6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - towerFloorPrefab: {instanceID: 0}
+  - spikePrefab: {instanceID: 0}
+  - waterPrefab: {instanceID: 0}
+  - mysteryPrefab: {instanceID: 0}
+  - treasurePrefab: {instanceID: 0}
+  - redMat: {fileID: 2100000, guid: 494cd5ff349ea0b46b4bab6bca4952b3, type: 2}
+  - blueMat: {fileID: 2100000, guid: 8f5d082ad9c994a44b9d56b7b7f1107a, type: 2}
+  - redCamera: {instanceID: 0}
+  - blueCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
